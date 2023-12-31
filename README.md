@@ -1,4 +1,4 @@
-# 📚 R-EduDemos: R Education and Demonstration
+# 📚 R-EduDemos: R-Education and Demonstration
 
 ## 🌟 Welcome to R-EduDemos! 
 

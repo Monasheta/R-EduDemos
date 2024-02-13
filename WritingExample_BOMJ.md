@@ -1,5 +1,5 @@
 
-### Narrative Insight: Exploring My Journey - Sample .R Script for Journey Visualization
+### Narrative Insight: Exploring My Journey - [Sample .R Script](BOMJ_Vis.R) or [Journey Visualization](BOMJ.jpeg)
 
 Hi there! 👋 Thanks for stopping by this page. Let's embark on a journey together. 🚀🌟
 
